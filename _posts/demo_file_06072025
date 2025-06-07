@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Bài viết demo có ảnh và video"
+date: 2025-06-07 10:00:00 +0700
+categories: [Tài liệu]
+tags: [demo, media]
+---
+
+## 📄 Nội dung chính
+
+Đây là một ví dụ về cách chèn hình ảnh và video vào bài viết.
+
+### 📸 Hình ảnh
+
+Ảnh thứ nhất:
+
+![Hình minh họa](/assets/img/hinh1.jpg)
+
+Ảnh thứ hai:
+
+![Biểu đồ](/assets/img/hinh2.png)
+
+---
+
+### 🎥 Video
+
+#### 1. Nhúng video YouTube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+
+#### 2. Chèn video tự host
+
+<video width="560" height="315" controls>
+  <source src="/assets/video/video1.mp4" type="video/mp4">
+  Trình duyệt của bạn không hỗ trợ video.
+</video>
+
+---
+
+### 📚 Kết luận
+
+Bạn có thể trình bày nội dung phong phú và chuyên nghiệp chỉ với Markdown!
