@@ -1,0 +1,10 @@
+/* Tăng kích thước avatar trong sidebar */
+.sidebar-avatar {
+  width: 120px;   // tăng lên từ mặc định 80px
+  height: 120px;
+  border-radius: 50%;
+}
+
+.sidebar-profile {
+  align-items: center;
+}
