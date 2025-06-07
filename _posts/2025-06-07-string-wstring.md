@@ -17,7 +17,7 @@ không hỗ trợ cho chuẩn c++98.
 
 <u>Author mention:</u> Questions 402283 trên Stackoverflow
 
-1.  **Bối cảnh:**
+**1.  Bối cảnh:**
 
 Trên thế giới có nhiều loại ngôn ngữ khác nhau, do vậy có nhiều chuẩn
 được thiết đặt như ASCII (Unicode8 - UTF8), Unicode 16/32,...Trong bảng
@@ -36,7 +36,7 @@ mình cũng chỉ mới biết khi làm tool để check các tệp trên Window
 string là tập hợp các char lại với nhau nên cũng biết rằng có hai kiểu
 dữ liệu **char** và **wchar**.
 
-2.  **Sự khác nhau về mặt kĩ thuật**
+**2.  Sự khác nhau về mặt kĩ thuật**
 
 Kiểu dữ liệu char có kích thước là 1 byte, trong khi đó wchar có kích
 thước là 4 bytes trên Windows x64 và 2 bytes trong Linux.
