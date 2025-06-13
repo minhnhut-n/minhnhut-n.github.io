@@ -27,7 +27,7 @@ nơi gửi đến nơi nhận.
 ## UART Interface
 
 > ![What is UART Communication? Block Diagram -
-> ETechnoG](media/uart_connect_in_device.png){width="4.306059711286089in"
+> ETechnoG](/assets/img/uart_connect_in_device.png){width="4.306059711286089in"
 > height="2.474747375328084in"}
 
 ***Figure 1 Kết nối UART trong device***
@@ -70,7 +70,7 @@ nơi gửi đến nơi nhận.
 > hơn các frame khác ở dạng tiêu chuẩn (tại có thông tin là nó ra đời
 > tiên mà nên cũng hiểu là nó phải là các basic nhất có thể - USART).
 >
-> ![](media/uart_frame.png){width="5.867522965879265in"
+> ![](/assets/img/uart_frame.png){width="5.867522965879265in"
 > height="0.6331408573928259in"}
 
 ***Figure 2 UART Data Frame***
@@ -97,7 +97,7 @@ nơi gửi đến nơi nhận.
 >
 > **Truyền thì truyền MSB bit trước nhé**
 >
-> ![](media/uart_frame_1.png){width="5.953159448818898in"
+> ![](/assets/img/uart_frame_1.png){width="5.953159448818898in"
 > height="0.8548118985126859in"}
 
 ***Figure 3 UART Root Frame***
@@ -162,7 +162,7 @@ nơi gửi đến nơi nhận.
 
 ## Formula
 
-> ![](media/uart_formuler.png){width="6.5in" height="3.2597222222222224in"}
+> ![](/assets/img/uart_formuler.png){width="6.5in" height="3.2597222222222224in"}
 
 ***Figure 4 Công thức tính UART của NXP 1768***
 
@@ -176,7 +176,7 @@ nơi gửi đến nơi nhận.
   nhau tạo thành bộ chia nhỏ tần số (fractional deivider) xuống mức phù
   hợp với cấu hình baudrate của giao thức tương ứng.
 
-![](media/uart_config_examble_stm.png){width="5.511811023622047in"
+![](/assets/img/uart_config_examble_stm.png){width="5.511811023622047in"
 height="2.4279057305336833in"}
 
 ***Figure 5 Ví dụ***

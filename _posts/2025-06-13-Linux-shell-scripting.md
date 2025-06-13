@@ -26,7 +26,7 @@ loop. (Live translate)
 
 Cần toàn bộ quá trình khi chạy (cần người phiên dịch)
 
-![](media/interpreter_compiler.png){width="4.3702504374453195in"
+![](/assets/img/interpreter_compiler.png){width="4.3702504374453195in"
 height="2.6769050743657044in"}
 https://ruslanspivak.com/lsbasi-part1/
 

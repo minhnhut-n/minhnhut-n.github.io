@@ -45,19 +45,19 @@ truyền thông tối đa là 40m. Nâng cấp lên thì Bandwidth là 20Kbit/se
 
 - Chỉ sử dụng 6 bits ID thay vì 11/ 29 bits như CAN.
 
-> ![](media/lin_topology.png){width="3.937007874015748in"
+> ![](/assets/img/lin_topology.png){width="3.937007874015748in"
 > height="1.990797244094488in"}
 
 *Figure 1: LIN và đồng bọn của nó*
 
-> ![](media/lin_topology_in_car.png){width="3.937007874015748in"
+> ![](/assets/img/lin_topology_in_car.png){width="3.937007874015748in"
 > height="2.1468471128608924in"}
 
 *Figure 2: Một vài cái sử dụng LIN*
 
 ## LIN Connection
 
-![](media/lin_connection.png){width="6.299212598425197in"
+![](/assets/img/lin_connection.png){width="6.299212598425197in"
 height="2.683895450568679in"}
 
 *Figure 3: Cấu trúc kết nối của một giao thức LIN*
@@ -71,7 +71,7 @@ với CAN là giao tiếp ngang hàng.
 
 Dữ liệu truyền được 2 chiều (bidirectional) trong BUS.
 
-> ![](media/lin_connection_inside.png){width="6.299212598425197in"
+> ![](/assets/img/lin_connection_inside.png){width="6.299212598425197in"
 > height="2.940978783902012in"}
 
 *Figure 4 Cấu hình bên trong driver*
