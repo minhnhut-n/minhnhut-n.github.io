@@ -98,11 +98,11 @@ theo interpreter. Ví dụ như câu điều kiện
 |                                                                       |
 | fi                                                                    |
 +=======================================================================+
-
+{% raw %}
 Qua ví dụ trên trong câu điều kiện {{ được thay cho ( và sau dấu \[\[ có
 thêm 1 khoảng trắng và kế thúc cũng vậy, và then thay cho dấu { để bắt
 đầu một vòng if.
-
+{% endraw %}
 Sử dụng "fi" để kết thúc một câu điều kiện, và else thì không cần phải
 có then theo sau, cứ code như python là đủ.
 
