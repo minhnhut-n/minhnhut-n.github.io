@@ -89,11 +89,11 @@ chung vài khẳng định vẫn còn mơ hồ cần kiểm chứng
 >
 > Giờ hầu hết các ổ đĩa đều được chuyển sang các cổng sata.
 >
-> ![](/assets/img/parallel_to_serial_port.jpg){width="4.225in" height="1.1625in"}
+> ![](/assets/img/parallel_to_serial_port.png){width="4.225in" height="1.1625in"}
 >
 > Ví dụ về Parallel sang Serial
 >
-> ![](/assets/img/parallel_to_serial_port_1.jpg){width="1.74375in" height="1.28125in"}
+> ![](/assets/img/parallel_to_serial_port_1.png){width="1.74375in" height="1.28125in"}
 
 ## Interface
 
