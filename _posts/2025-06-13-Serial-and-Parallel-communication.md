@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Serial and Parallel communication"
+date: 2025-06-13 16:26:00 +0700
+categories: [Protocal]
+tags: [Knowledge, Protocal, parallel, serial]
+---
 **\_\_\_**
 
 Nguyễn Minh Nhựt

@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Linux Shell Scripting"
+date: 2025-06-13 16:26:00 +0700
+categories: [Linux]
+tags: [Linux, script, bash, shel scripting]
+---
 **\_\_\_**
 
 Nguyễn Minh Nhựt
